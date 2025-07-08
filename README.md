@@ -8,10 +8,10 @@ This Python script allows you to automatically create users in **HumHub** via it
 
 The Excel file must be in `.xlsx` format and contain the following **required columns** (column headers must match exactly):
 
-| First Name [Required] | Last Name [Required] | Email Address [Required]   | Recovery Phone [MUST BE IN THE E.164 FORMAT] |
-| --------------------- | -------------------- | -------------------------- | -------------------------------------------- |
-| Aidana                | Kamenova             | aidana.kamenova@narxoz.kz  | +77753074567                                 |
-| Aditee                | Prabhakar            | aditee.prabhakar@narxoz.kz | +919693777060                                |
+| First Name [Required] | Last Name [Required] | Email Address [Required] | Recovery Phone [MUST BE IN THE E.164 FORMAT] |
+| --------------------- | -------------------- | ------------------------ | -------------------------------------------- |
+| Test1                 | User1                | testuser1@gmail.com      | +88005553535                                 |
+| Test2                 | User2                | testuser2@gmail.com      | +88005553535                                 |
 
 - Only the columns above are required. Other columns will be ignored.
 - The **Recovery Phone** column is optional.
